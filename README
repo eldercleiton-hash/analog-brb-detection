@@ -1,1 +1,1 @@
-
+This directory contains the component values for all analog circuits presented in the paper, including the Bessel band-pass filters (20, 25, and 30 Hz), the Twin-T notch filter, the peak detector, and the active low-pass filter used for envelope extraction.
